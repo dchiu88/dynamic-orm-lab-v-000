@@ -8,3 +8,5 @@ class Student < InteractiveRecord
     attr_accessor field.to_sym
   end
 end
+
+end
