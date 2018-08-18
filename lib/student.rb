@@ -9,4 +9,4 @@ class Student < InteractiveRecord
   end
 end
 
-end
+
